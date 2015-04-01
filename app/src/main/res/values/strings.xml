@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ListView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_editar_nombre">EditarNombreActivity</string>
+    <string name="etiqueta_nombre_editar">Nombre</string>
+    <string name="btnEditar_editar">Editar</string>
+    <string name="title_activity_editar_texto">EditarTexto</string>
+</resources>
